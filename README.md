@@ -1,12 +1,13 @@
 ![phData Logo](phData.png "phData Logo")
 
-# phData Machine Learning Engineer Candidate Project
-
 # Start the application
 - conda env create -f conda_environment.yml
 - conda activate housing
 - docker build -t housing-app .
 - docker run -p 8000:8000 housing-app
+
+
+# phData Machine Learning Engineer Candidate Project
 
 phData wants the interview process to – as best as possible – reflect
 the realities of working in the real world. In a typical real-world scenario,
